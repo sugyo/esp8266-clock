@@ -1,0 +1,5 @@
+ESSID = '<essid>'
+PASSWORD = '<password>'
+
+TIMEZONE = (9 * 60 * 60)  # JST
+NTPSERVER = 'time.google.com'
